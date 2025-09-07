@@ -6,7 +6,7 @@
 
 ### About Me
 - 🌍 Based in Dehradun
-- 💻 Passionate about Python, Flask, Data Analysis & Machine Learning
+- 💻 Passionate about Python, Django, Flask, Data Analysis & Machine Learning
 - 🎯 Currently sharpening my skills in full-stack development and data science
 - 🔗 Let's connect! [LinkedIn](https://www.linkedin.com/in/sachin-rawat/) | [Portfolio](your-portfolio-link)
 
@@ -14,7 +14,15 @@
 
 ### 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/-Seaborn-1A94C5?style=flat)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![MS Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![MS PowerPoint](https://img.shields.io/badge/-PowerPoint-D24726?style=flat&logo=microsoft-powerpoint&logoColor=white)
+![MS Word](https://img.shields.io/badge/-Word-185ABD?style=flat&logo=microsoft-word&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
