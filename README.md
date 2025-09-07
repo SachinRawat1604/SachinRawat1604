@@ -8,7 +8,7 @@
 - 🌍 Based in Dehradun
 - 💻 Passionate about Python, Django, Flask, Data Analysis & Machine Learning
 - 🎯 Currently sharpening my skills in full-stack development and data science
-- 🔗 Let's connect! [LinkedIn](https://www.linkedin.com/in/sachin-rawat/) | [Portfolio](your-portfolio-link)
+- 🔗 Let's connect! [LinkedIn](http://www.linkedin.com/in/sachin-rawat-sr1604) | [Portfolio](https://sachin-portfolio-rd6a.onrender.com/)
 
 ---
 
